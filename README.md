@@ -35,7 +35,7 @@ A secure real estate transaction system using Ethereum and Truffle, developed du
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatj2209&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-git-master-akshatwritesoniccs-projects.vercel.app/api?username=akshatj2209&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 
